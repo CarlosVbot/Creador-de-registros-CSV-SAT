@@ -1,5 +1,5 @@
 # Creador-de-registros-CSV-SAT
-Generador de registros para ubicaciones(estado ,colonias ,localidades ,codigos postales y municipios) del SAT, cargando CSV descargados de la pagina oficial del SAT
+Generador (Suitelet y MapReduce) de registros para ubicaciones(estado ,colonias ,localidades ,codigos postales y municipios) del SAT, cargando CSV descargados de la pagina oficial del SAT
 Interfaz de usuario:<br>
 ![](https://i.postimg.cc/tC0XBd4Z/Captura.jpg)<br>
 Resultado:<br>
